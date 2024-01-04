@@ -1,5 +1,5 @@
 # .u1-grid - class
-Most used case for grid-elements
+Most wanted grid case
 
 handy util-class to make a auto-column grid
 
