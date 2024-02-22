@@ -8,7 +8,7 @@ handy util-class to make a auto-column grid
 - dynamic column-count
 - respecting available-space if item-(min)-width > available
 
-## Ussage
+## Usage
 
 ```html
 <div class=u1-grid>
